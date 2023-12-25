@@ -1,0 +1,45 @@
+.browser-container {
+  background-color: #3367d6;
+  height: 12vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 40px;
+}
+
+.app-logo {
+  height: 45px;
+  margin: 25px;
+}
+.search-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2858a7;
+  border: 2px solid #66977f;
+  height: 45px;
+  width: 400px;
+  border-radius: 10px;
+}
+.search-input {
+  color: #ffffff;
+  font-size: 25px;
+  background-color: transparent;
+  margin-left: 10px;
+  padding-left: 15px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 1px;
+  border-color: #475569;
+}
+.search-img {
+  height: 50px;
+  width: 50px;
+}
+.app-container {
+  display: flex;
+}
+.text-contain {
+}
